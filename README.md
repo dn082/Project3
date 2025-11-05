@@ -12,11 +12,11 @@ Linear regression is the concept of supervised learning being used for predictio
 A formula to represent the basic idea is
 y = beta0 + beta1 * x + epsilon
 
-y = the variable you are trying to predict - dependent
-beta0 = the value of y when x = 0
-beta1 = 
-x = the input - independent
-epsilon = error term
+- y = the variable you are trying to predict - dependent
+- beta0 = the value of y when x = 0
+- beta1 = slope
+- x = the input - independent
+- epsilon = error term
 
 ## PREPROCESSING
 Some steps I took for preprocessing my data were to:
